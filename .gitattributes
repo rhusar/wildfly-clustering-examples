@@ -1,0 +1,5 @@
+# Global default
+*     text=auto
+
+# Windows-specific scripts
+*.cmd text eol=crlf
